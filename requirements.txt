@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+python-dotenv
+pypdf
+python-docx
+validators
+youtube-transcript-api
+pytube
+beautifulsoup4
+lxml
+reportlab
